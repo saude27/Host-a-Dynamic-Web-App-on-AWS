@@ -1,3 +1,6 @@
+#![Alt text](/3._Host_a_Dynamic_Web_App_on_AWS.png)
+
+
 # Dynamic Website Hosting on AWS
 
 ## Project Overview
